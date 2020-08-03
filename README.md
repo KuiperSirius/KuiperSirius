@@ -4,7 +4,7 @@
 
 > Keep Calm and Carry On.
 
-🇨🇳 China Zhengzhou・☘️ Computer Science
+- :hammer_and_pick: 🇨🇳 China Zhengzhou・☘️ Computer Science
 
 https://kixcs.com
 
