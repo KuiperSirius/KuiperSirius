@@ -5,7 +5,7 @@
 > Keep Calm and Carry On.
 
 - :hammer_and_pick: 🇨🇳 China Zhengzhou・☘️ Computer Science
-
-https://kixcs.com
+- :memo: [Blog](https://kixcs.com) :card_index: [Portfolio](https://larix.cc)
+- :email: `gyh1298058589@gmail.com`
 
 ###### 💾 EOF
